@@ -1,0 +1,32 @@
+{
+  "modes": [
+    {
+      "name": "Quick Wash",
+      "duration_minutes": 15,
+      "spin_speed_rpm": 800,
+      "water_level_liters": 20,
+      "temperature_celsius": 30
+    },
+    {
+      "name": "Normal",
+      "duration_minutes": 45,
+      "spin_speed_rpm": 1000,
+      "water_level_liters": 35,
+      "temperature_celsius": 40
+    },
+    {
+      "name": "Heavy",
+      "duration_minutes": 60,
+      "spin_speed_rpm": 1200,
+      "water_level_liters": 45,
+      "temperature_celsius": 60
+    },
+    {
+      "name": "Delicate",
+      "duration_minutes": 30,
+      "spin_speed_rpm": 400,
+      "water_level_liters": 30,
+      "temperature_celsius": 30
+    }
+  ]
+}
