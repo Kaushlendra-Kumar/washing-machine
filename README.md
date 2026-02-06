@@ -244,4 +244,4 @@ Kaushlendra Kumar
 
 ## License
 
-This project is demonstration purposes.
+This project is for demonstration purposes.
